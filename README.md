@@ -4,12 +4,12 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Commit inicjalizacyjny
-- Stream - map(), flatMap()
+- String cz. 1,2
 ##### TO DO:
 - Kolekcje
-- String
 - Wątki
+- Rekordy
+- Klasy zapieczetowane 
 - Lambdy
 - Typy generyczne
 - Interfejsy
