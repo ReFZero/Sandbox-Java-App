@@ -4,7 +4,10 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- String cz. 1,2
+- Mechanizm refleksji
+#### Dodatkowe informacje:
+- String
+- Stream
 ##### TO DO:
 - Kolekcje
 - Wątki
@@ -14,7 +17,6 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Typy generyczne
 - Interfejsy
 - Referencje do metod, konstruktorów
-- Mechanizm refleksji
 - Powodowanie wycieków pamieci
 - Testowanie rodzajów referencji
 - Pliki

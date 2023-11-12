@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="String - glowne metody dla klasy String cz. 1">
+    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="String - glowne metody dla klasy String cz. 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/reflection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/reflection/ReflectionClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/ReFZero/string/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/string/StringClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,26 @@
       <recent name="D:\Do Repo\Java\JavaApp" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="ReflectionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.reflection.ReflectionClass" />
+      <module name="JavaApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.ReFZero.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectionClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +79,9 @@
       <workItem from="1699543080191" duration="3769000" />
       <workItem from="1699610152068" duration="3406000" />
       <workItem from="1699649581790" duration="2258000" />
-      <workItem from="1699695110931" duration="4022000" />
+      <workItem from="1699695110931" duration="4697000" />
+      <workItem from="1699736971452" duration="3516000" />
+      <workItem from="1699787183634" duration="6277000" />
     </task>
     <task id="LOCAL-00001" summary="Stream - map(), flatMap(). Commit inicjalizacyjny.">
       <created>1699545904218</created>
@@ -74,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699652066645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="String - glowne metody dla klasy String cz. 2">
+      <created>1699699478525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699699478525</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stream - map(), flatMap(). Commit inicjalizacyjny." />
     <MESSAGE value="String - glowne metody dla klasy String cz. 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="String - glowne metody dla klasy String cz. 1" />
+    <MESSAGE value="String - glowne metody dla klasy String cz. 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="String - glowne metody dla klasy String cz. 2" />
   </component>
 </project>
