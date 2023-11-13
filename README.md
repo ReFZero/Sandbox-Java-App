@@ -4,14 +4,16 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Mechanizm refleksji
+- Kolekcje
 #### Dodatkowe informacje:
 - String
 - Stream
+- Mechanizm refleksji
 ##### TO DO:
 - Kolekcje
 - Wątki
 - Rekordy
+- Enum
 - Klasy zapieczetowane 
 - Lambdy
 - Typy generyczne
