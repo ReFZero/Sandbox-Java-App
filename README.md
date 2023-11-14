@@ -4,8 +4,9 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Kolekcje
+- Enum
 #### Dodatkowe informacje:
+- Kolekcje
 - String
 - Stream
 - Mechanizm refleksji
@@ -13,7 +14,6 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Kolekcje
 - Wątki
 - Rekordy
-- Enum
 - Klasy zapieczetowane 
 - Lambdy
 - Typy generyczne
