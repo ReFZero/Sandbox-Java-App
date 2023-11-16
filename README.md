@@ -4,8 +4,9 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Enum
+- Kolekcje - ciekawe przypadki
 #### Dodatkowe informacje:
+- Enum
 - Kolekcje
 - String
 - Stream
