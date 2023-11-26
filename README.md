@@ -4,7 +4,7 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Kolekcje - ciekawe przypadki
+- Typy generyczne
 #### Dodatkowe informacje:
 - Enum
 - Kolekcje
@@ -17,7 +17,6 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Rekordy
 - Klasy zapieczetowane 
 - Lambdy
-- Typy generyczne
 - Interfejsy
 - Referencje do metod, konstruktorów
 - Powodowanie wycieków pamieci

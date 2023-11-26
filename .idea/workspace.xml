@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Kolekcje - ciekawe przypadki">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/time/TimeClass.java" afterDir="false" />
+    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Daty i czas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/generic/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/generic/BoxInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/generic/GenericClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,11 +48,14 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.ReFZero.generic" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Do Repo\Java\JavaApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TimeClass">
+  <component name="RunManager" selected="Application.GenericClass">
     <configuration name="ClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.ReFZero.testfiles.Clazz.ClassMain" />
       <module name="JavaApp" />
@@ -62,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.collection.CollectionClass" />
+    <configuration name="EnumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.enums.EnumClass" />
       <module name="JavaApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.ReFZero.collection.*" />
+          <option name="PATTERN" value="pl.ReFZero.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.enums.EnumClass" />
+    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.generic.GenericClass" />
       <module name="JavaApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.ReFZero.enums.*" />
+          <option name="PATTERN" value="pl.ReFZero.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericClass" />
         <item itemvalue="Application.TimeClass" />
         <item itemvalue="Application.ClassMain" />
         <item itemvalue="Application.EnumClass" />
         <item itemvalue="Application.ReflectionClass" />
-        <item itemvalue="Application.CollectionClass" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +162,8 @@
       <workItem from="1700313465976" duration="307000" />
       <workItem from="1700411490480" duration="3000" />
       <workItem from="1700411560503" duration="4000" />
-      <workItem from="1700668110973" duration="743000" />
+      <workItem from="1700668110973" duration="1581000" />
+      <workItem from="1701012832664" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="Stream - map(), flatMap(). Commit inicjalizacyjny.">
       <created>1699545904218</created>
@@ -206,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700139321220</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Daty i czas">
+      <created>1700669673002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700669673002</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +246,7 @@
     <MESSAGE value="Kolekcje" />
     <MESSAGE value="Enum" />
     <MESSAGE value="Kolekcje - ciekawe przypadki" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kolekcje - ciekawe przypadki" />
+    <MESSAGE value="Daty i czas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daty i czas" />
   </component>
 </project>
