@@ -4,15 +4,16 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Typy generyczne
+- Apache Commons - Collections(...)
 #### Dodatkowe informacje:
 - Enum
-- Kolekcje
+- Kolekcje (...)
 - String
-- Stream
+- Typy generyczne
+- Stream (...)
+- Data i czas
 - Mechanizm refleksji
 ##### TO DO:
-- Kolekcje
 - Wątki
 - Rekordy
 - Klasy zapieczetowane 
@@ -26,4 +27,3 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Pattern matching
 - Sortowanie
 - Iteratory
-- Apache Commons - Collections
