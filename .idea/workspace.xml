@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Apache Commons - Collections">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/model/Person.java" afterDir="false" />
+    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Stream - metody reduce(), toMap(), joining(), partitioningBy(), groupingBy(), mapping(), counting(), sum(), maxBy(), filtering(), flatMapping()">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/records/RecordClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/records/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/StreamClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -53,7 +55,7 @@
       <recent name="D:\Do Repo\Java\JavaApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamClass">
+  <component name="RunManager">
     <configuration name="ClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.ReFZero.testfiles.Clazz.ClassMain" />
       <module name="JavaApp" />
@@ -176,6 +178,7 @@
       <workItem from="1702652450775" duration="15000" />
       <workItem from="1703362073497" duration="5098000" />
       <workItem from="1703411773787" duration="7341000" />
+      <workItem from="1704035027101" duration="2106000" />
     </task>
     <task id="LOCAL-00001" summary="Stream - map(), flatMap(). Commit inicjalizacyjny.">
       <created>1699545904218</created>
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701335783173</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Stream - metody reduce(), toMap(), joining(), partitioningBy(), groupingBy(), mapping(), counting(), sum(), maxBy(), filtering(), flatMapping()">
+      <created>1704035467532</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704035467532</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +285,7 @@
     <MESSAGE value="Daty i czas" />
     <MESSAGE value="Typy generyczne" />
     <MESSAGE value="Apache Commons - Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apache Commons - Collections" />
+    <MESSAGE value="Stream - metody reduce(), toMap(), joining(), partitioningBy(), groupingBy(), mapping(), counting(), sum(), maxBy(), filtering(), flatMapping()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream - metody reduce(), toMap(), joining(), partitioningBy(), groupingBy(), mapping(), counting(), sum(), maxBy(), filtering(), flatMapping()" />
   </component>
 </project>

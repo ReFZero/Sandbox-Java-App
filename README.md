@@ -4,7 +4,7 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Java 17
 - Maven
 #### Zmiany w ostatnim commicie:
-- Apache Commons - Collections(...)
+- Rekordy
 #### Dodatkowe informacje:
 - Enum
 - Kolekcje (...)
@@ -15,7 +15,6 @@ Repozytorium do testowania funkcjonalnosci jezyka Java
 - Mechanizm refleksji
 ##### TO DO:
 - Wątki
-- Rekordy
 - Klasy zapieczetowane 
 - Lambdy
 - Interfejsy
