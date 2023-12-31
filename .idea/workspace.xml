@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Typy generyczne">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/apacheCommonsCollection/apacheCommonsClass.java" afterDir="false" />
+    <list default="true" id="20111860-1b81-41c9-be5e-1fde9645da52" name="Changes" comment="Apache Commons - Collections">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/model/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/StreamClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/ReFZero/stream/StreamClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="D:\Do Repo\Java\JavaApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericClass">
+  <component name="RunManager" selected="Application.StreamClass">
     <configuration name="ClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.ReFZero.testfiles.Clazz.ClassMain" />
       <module name="JavaApp" />
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.enums.EnumClass" />
+    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.generic.GenericClass" />
       <module name="JavaApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.ReFZero.enums.*" />
+          <option name="PATTERN" value="pl.ReFZero.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.generic.GenericClass" />
+    <configuration name="StreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.ReFZero.stream.StreamClass" />
       <module name="JavaApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.ReFZero.generic.*" />
+          <option name="PATTERN" value="pl.ReFZero.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericClass" />
+        <item itemvalue="Application.StreamClass" />
         <item itemvalue="Application.apacheCommonsClass" />
+        <item itemvalue="Application.GenericClass" />
         <item itemvalue="Application.TimeClass" />
         <item itemvalue="Application.ClassMain" />
-        <item itemvalue="Application.EnumClass" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +163,19 @@
       <workItem from="1700668110973" duration="1581000" />
       <workItem from="1701012832664" duration="4848000" />
       <workItem from="1701268968678" duration="6744000" />
+      <workItem from="1701335612818" duration="982000" />
+      <workItem from="1701443930917" duration="3039000" />
+      <workItem from="1701610579384" duration="780000" />
+      <workItem from="1701712377473" duration="9000" />
+      <workItem from="1701806765486" duration="110000" />
+      <workItem from="1701807797987" duration="14000" />
+      <workItem from="1701887475810" duration="1367000" />
+      <workItem from="1702303160240" duration="20000" />
+      <workItem from="1702391772964" duration="24000" />
+      <workItem from="1702591302828" duration="60000" />
+      <workItem from="1702652450775" duration="15000" />
+      <workItem from="1703362073497" duration="5098000" />
+      <workItem from="1703411773787" duration="7341000" />
     </task>
     <task id="LOCAL-00001" summary="Stream - map(), flatMap(). Commit inicjalizacyjny.">
       <created>1699545904218</created>
@@ -228,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701017489751</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Apache Commons - Collections">
+      <created>1701335783173</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701335783173</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +274,7 @@
     <MESSAGE value="Kolekcje - ciekawe przypadki" />
     <MESSAGE value="Daty i czas" />
     <MESSAGE value="Typy generyczne" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typy generyczne" />
+    <MESSAGE value="Apache Commons - Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apache Commons - Collections" />
   </component>
 </project>
